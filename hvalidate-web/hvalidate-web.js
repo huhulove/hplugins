@@ -50,6 +50,8 @@
  *    		3.1  $.fn.hvalidate.setMsg  => 动态设置提示内容
  *    		3.2  $.fn.hvalidate.remove  => 动态移除提示信息
  *    		3.3  $.fn.hvalidate.run     => 动态验证所有控件
+ * 
+ * 		4. 依赖 jQuery 基础插件
  * 	
  */
 
