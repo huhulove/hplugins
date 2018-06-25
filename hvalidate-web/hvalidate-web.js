@@ -52,6 +52,7 @@
  *    		3.3  $.fn.hvalidate.run     => 动态验证所有控件
  * 
  * 		4. 依赖 jQuery 基础插件
+ * 		5. 验证提示信息样式依赖 bootstrap.css 基础样式表
  * 	
  */
 
