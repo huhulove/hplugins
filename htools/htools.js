@@ -5,7 +5,7 @@
  * @DateTime 2018-06-14       
  */
 
-const hTools = {
+const htools = {
 
 	//--------------------------Other------------------------------
 
@@ -1729,7 +1729,7 @@ const hTools = {
 
 }
 
-export default hTools
+export default htools
 
 
 
