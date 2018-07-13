@@ -10,7 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "hbmap": "^0.1.5",
+    "hbmap": "^0.1.6",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
